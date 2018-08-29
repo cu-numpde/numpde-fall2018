@@ -12,6 +12,12 @@ Meeting Time: MWF 2:00-2:50pm in ECCR 1B51
 * Join via Zoom app (using meeting ID 593-324-843)
 * Join via phone: +1-669-900-6833 or +1-646-558-8656
 
+#### Instructor
+
+[Jed Brown](https://jedbrown.org), [<tt>jed.brown@colorado.edu</tt>](mailto:jed.brown@colorado.edu), ECOT 621
+
+Office Hours: Mon 9-10am, Thu 8:30-10am, or by appointment.
+
 ## Homeworks
 
 * will be announced here

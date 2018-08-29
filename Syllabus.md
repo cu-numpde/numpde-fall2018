@@ -24,7 +24,7 @@ https://gitter.im/cucs-numpde/Lobby
 
 [Jed Brown](https://jedbrown.org), [<tt>jed.brown@colorado.edu</tt>](mailto:jed.brown@colorado.edu), ECOT 621
 
-Office Hours: Mon 9-10am, Thu 9-10am, or by appointment.
+Office Hours: Mon 9-10am, Thu 8:30-10am, or by appointment.
 
 ### Overview
 
