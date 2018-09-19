@@ -21,6 +21,7 @@ Office Hours: Mon 9-10am, Thu 8:30-10am, or by appointment.
 ## Homeworks
 
 1. Homework 1: Due 2018-09-16 (Sunday), see [FiniteDifference notebook](FiniteDifference.ipynb)
+2. Homework 2: Due 2018-09-30 (Sunday), see [FDHighOrder notebook](FDHighOrder.ipynb)
 
 ## News
 
