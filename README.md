@@ -14,7 +14,7 @@ Meeting Time: MWF 2:00-2:50pm in ECCR 1B51
 
 #### Instructor
 
-[Jed Brown](https://jedbrown.org), [<tt>jed.brown@colorado.edu</tt>](mailto:jed.brown@colorado.edu), ECOT 621
+[Jed Brown](https://jedbrown.org), [<tt>jed.brown@colorado.edu</tt>](mailto:jed.brown@colorado.edu), ECOT 824
 
 Office Hours: Mon 9-10am, Thu 8:30-10am, or by appointment.
 
