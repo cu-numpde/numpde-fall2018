@@ -124,13 +124,13 @@ def ode_rkexplicit(f, u0, butcher=None, tfinal=1, h=.1):
         else:
             tnext = t + h
         h = min(h, tfinal - t)
-        fY = numpy.zeros((len(u0), s))
+        fY = numpy.zeros((s, len(u0)))
         for i in range(s):
             Yi = u.copy()
             for j in range(i):
-                Yi += h * A[i,j] * fY[:,j]
-            fY[:,i] = f(t + h*c[i], Yi)
-        u += h * fY.dot(b)
+                Yi += h * A[i,j] * fY[j]
+            fY[i] = f(t + h*c[i], Yi)
+        u += h * b @ fY
         t = tnext
         hist.append((t, u.copy()))
     return hist
