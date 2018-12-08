@@ -23,6 +23,8 @@ Office Hours: Mon 9-10am, Thu 8:30-10am, or by appointment.
 1. Homework 1: Due 2018-09-16 (Sunday), see [FiniteDifference notebook](FiniteDifference.ipynb)
 2. Homework 2: Due 2018-09-30 (Sunday), see [FDHighOrder notebook](FDHighOrder.ipynb)
 3. Homework 3: Due 2018-10-24 (Wednesday), see [FD2D notebook](FD2D.ipnb)
+4. Homework 4: Due 2018-12-03 (Sunday), see [FDTransient notebook](FDTransient.ipynb)
+5. Homework 5 (optional/extra credit): Due 2018-12-16 (Sunday), see [FVHyperbolic notebook](FVHyperbolic.ipynb)
 
 ## News
 
